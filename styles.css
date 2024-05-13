@@ -3,6 +3,11 @@
     padding: 0;
 }
 
-.goob {
-    max-height: 100%;
+.masonry {
+    margin-top: 10px;
+    position: relative;
+}
+
+.masonry * {
+    position: absolute;
 }
