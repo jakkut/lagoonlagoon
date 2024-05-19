@@ -1,3 +1,4 @@
 var masonryObject = new MiniMasonry({
-    container: ".masonry"
+    container: ".masonry",
+    wedge: true
 });
